@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\n9613\\OneDrive\\Рабочий стол\\DZ Seminar2 C#\\Zadacha3\\Zadacha3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\n9613\\OneDrive\\Рабочий стол\\DZ Seminar2 C#\\Zadacha3\\Zadacha3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\n9613\\OneDrive\\Рабочий стол\\DZ Seminar2 C#\\Zadacha3\\Zadacha3.csproj",
+        "projectName": "Zadacha3",
+        "projectPath": "C:\\Users\\n9613\\OneDrive\\Рабочий стол\\DZ Seminar2 C#\\Zadacha3\\Zadacha3.csproj",
+        "packagesPath": "C:\\Users\\n9613\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\n9613\\OneDrive\\Рабочий стол\\DZ Seminar2 C#\\Zadacha3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\n9613\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.5.22307.18\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
